@@ -25,14 +25,14 @@ Aqui estão alguns exemplos de transformações realizadas no Pentaho:
 
 ### Fluxo da Transformação e Migração de Dados
 
-![Transformação de Migração de Dados](imagens/transformacao_migracao.png)
+![Transformação de Migração de Dados](https://user-images.githubusercontent.com/79403619/260829897-29118a28-26c5-44b8-8eaa-d8ad74da34a8.jpg)
 
 
 ## 🚀 Sql Server Banco de Dados
 
 Aqui esta a tela do banco de dados no SQL Server:
 
-![Transformação de Migração de Dados](imagens/transformacao_migracao.png)
+![SQL Server Banco de Dados](https://user-images.githubusercontent.com/79403619/260829972-0e7aa705-c737-43da-9c67-65f73ac42088.jpg)
 
 
 ### Alguns exemplos de consultas no SQL Server
