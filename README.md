@@ -96,6 +96,19 @@ GROUP BY
 ORDER BY
     dd.data, dp.nome_produto;
 ```
+## :bar_chart: Dataviz
+
+Para visualizar o dashboard do projeto, acessar o link abaixo:
+
+http://localhost:3000/public/dashboard/e04296cf-e985-43f2-9150-bd98cad88675
+
+O Metabase é uma ferramenta de análise de dados de código aberto que permite a criação de painéis interativos e relatórios a partir de várias fontes de dados, facilitando a tomada de decisões com base em dados de forma visual e intuitiva. É usado para explorar, visualizar e compartilhar informações de maneira acessível para equipes e organizações.
+
+Aqui esta de como criar uma medida no METABASE, usando consultas do SQL Server e gerando gráficos:
+
+![Captura de tela 2023-08-25 162103](https://github.com/NayaraWakewski/projeto_db_vendas/assets/79403619/bd872ad4-a5a2-4021-940d-49cac7a12a49)
+
+
 
 ## ⚙️ Configuração do Ambiente
 
@@ -104,6 +117,7 @@ Para reproduzir este projeto, você precisará das seguintes ferramentas instala
 - PostgreSQL.
 - SQL Server.
 - Pentaho Data Integration.
+- Metabase (Visualização Direto do Banco de Dados - Sql Server).
 
 
 ## 🎁 Expressões de gratidão
